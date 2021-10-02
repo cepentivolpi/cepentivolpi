@@ -12,8 +12,17 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center" background-color="orange">Hola, soy Claudio!</h1>
 
 <h3 align="center">Soy Desarrollador Full Stack y Estudiante de Análisis de Sistemas</h3>
+<br>
+Me presento👋
+Soy un fanático de la tecnología desde siempre. Me comprometí a ser parte de su desarrollo hace alrededor de 4 años cuando empecé a estudiar Análisis de Sistemas y últimamente profundicé mis conocimientos como desarrollador Full Stack.
+<br>
+<br>
+Mis deseos🤞
+Tengo muchas ganas de integrarme a un equipo de trabajo en donde pueda aportar todas mis habilidades y aprender día a día de ellos. Estoy dispuesto a afrontar los desafíos que se presenten, con el compromiso que me representa, y las ganas de profundizar y adquirir nuevos conocimientos.
 
 
+<br>
+<br>
 <h3 align="left">Tecnologías que manejo:</h3>
  
    <div >
@@ -70,8 +79,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <span >PostgreSql</span>
   </div>
-  
-  
+  <br>
+  <br>
  
-   
+   Que te parece si nos contactamos?
+WhatsApp +54 11 6734-3342📱
+ce.pentivolpi@gmail.com📩
    
