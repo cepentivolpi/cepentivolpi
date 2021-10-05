@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Soy Desarrollador Full Stack y Estudiante de Análisis de Sistemas</h3>
 <br>
 Me presento👋
-Soy un fanático de la tecnología desde siempre. Me comprometí a ser parte de su desarrollo hace alrededor de 4 años cuando empecé a estudiar Análisis de Sistemas y últimamente profundicé mis conocimientos como desarrollador Full Stack.
+Soy fanático de la tecnología desde siempre. Me comprometí a ser parte de su desarrollo hace alrededor de 4 años cuando empecé a estudiar Análisis de Sistemas y últimamente profundicé mis conocimientos como desarrollador Full Stack.
 <br>
 <br>
 Mis deseos🤞
