@@ -17,7 +17,7 @@ Me presento👋
 Soy fanático de la tecnología desde siempre. Me comprometí a ser parte de su desarrollo hace alrededor de 4 años cuando empecé a estudiar Análisis de Sistemas y últimamente profundicé mis conocimientos como desarrollador Full Stack.
 <br>
 <br>
-Mis deseos🤞
+Mis expectativas🤞
 Tengo muchas ganas de integrarme a un equipo de trabajo en donde pueda aportar todas mis habilidades y aprender día a día de ellos. Estoy dispuesto a afrontar los desafíos que se presenten, con el compromiso que me representa, y las ganas de profundizar y adquirir nuevos conocimientos.
 
 
